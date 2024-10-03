@@ -16,8 +16,7 @@ Membership Type :
 
 Use case :
 - Member/any wallet able to register ✅
-- Each MembershipType will have different Eth for registration and should be paid with defined registrationFee
-  ✅
+- Each MembershipType will have different Eth for registration and should be paid with registrationFee ✅
 - Membership will be activated once owner or Membership Admin approve the registration ✅
 - Membership can be rejected by owner or Membership Admin and paid Eth will be refunded ✅
 - Contract owner can manage who will be the Membership Admin and Event Admin
