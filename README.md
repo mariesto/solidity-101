@@ -1,6 +1,6 @@
 ## Event Membership Management
+Simple smart contract for Event Membership Management build using Solidity and Hardhat.
 
-Demo project to learn smart contract with solidity and hardhat.
 
 
 Roles:
